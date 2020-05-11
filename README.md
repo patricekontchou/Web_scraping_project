@@ -1,4 +1,4 @@
-An analysis of Data Science Job in the US using with data scrapped from galssdoor.com
+An analysis of Data Science Jobs in the US using data scrapped from galssdoor.com
 
 Data used for this project was scrapped using scrapy and selenium.
 
